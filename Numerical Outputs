@@ -1,0 +1,53 @@
+# NUMERICAL OUTPUTS
+
+Mission: Preliminary Earth-Mars Exploration Mission
+
+Mission phases:
+- Low Earth Orbit Assembly
+- Trans-Mars Injection
+- Mars Arrival
+- Deep Space Cruise
+- Mars Orbit Insertion
+- Surface Operations
+
+Mission class: Deep Space Mission
+
+============================
+PROPULSION ANALYSIS
+============================
+
+Engine: Methane LOX Chemical
+Specific impulse: 380 seconds
+Fuel required: 51312.7 kg
+
+Engine: Hydrogen LOX Chemical
+Specific impulse: 450 seconds
+Fuel required: 36880.04 kg
+
+Engine: Ion Thruster
+Specific impulse: 3000 seconds
+Fuel required: 2814.05 kg
+
+Engine: Nuclear Thermal Rocket
+Specific impulse: 900 seconds
+Fuel required: 12219.01 kg
+
+Engine: Hall Effect Thruster
+Specific impulse: 2000 seconds
+Fuel required: 4459.63 kg
+
+Engine: Solar Sail
+Specific impulse: 10000 seconds
+Fuel required: 782.89 kg
+
+============================
+HOHMANN TRANSFER
+============================
+Transfer Delta-V: 2.94 km/s
+Travel time: 258.8 days
+
+============================
+LAMBERT TRANSFER
+============================
+Departure velocity: 32.73 km/s
+Arrival velocity: 21.48 km/s
