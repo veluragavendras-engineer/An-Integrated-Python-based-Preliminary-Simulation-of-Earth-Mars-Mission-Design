@@ -1,7 +1,7 @@
 # An Integrated Python-based Preliminary Simulation of Earth-Mars Mission Design
 An Integrated Python-Based Preliminary Simulation of Earth–Mars Mission Design Incorporating Astrodynamics, Rocket Propulsion Analysis, Hohmann Transfer, Simplified Lambert Transfer, Mission ΔV Analysis, and Mission Risk Assessment
 # Overview
-Conducted a preliminary Earth–Mars mission simulation incorporating Hohmann and simplified Lambert transfer analysis, ΔV estimation, propulsion trade-off evaluation, and rocket equation calculations using Python, NumPy, and Matplotlib.
+Conducted a preliminary Earth–Mars mission simulation incorporating Hohmann and simplified Lambert transfer analysis, ΔV estimation, propulsion system analysis, and rocket equation calculations using Python, NumPy, and Matplotlib.
 
 # Astrodynamics Analysis and Features
 Hohmann Transfer and Simplified Lambert Transfer
