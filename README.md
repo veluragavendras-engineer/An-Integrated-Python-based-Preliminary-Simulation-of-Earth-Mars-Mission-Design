@@ -1,4 +1,4 @@
-# Preliminary Python-Based Earth–Mars Trajectory and Propulsion Analysis 
+# Python-Based Earth–Mars Trajectory and Propulsion Analysis 
 # Overview
 Conducted a preliminary Python-based Earth–Mars trajectory and propulsion analysis incorporating Hohmann transfer analysis, simplified Lambert transfer estimation, ΔV estimation, rocket equation calculations, and propulsion performance comparison using NumPy and Matplotlib.
 # Astrodynamics Analysis and Features
